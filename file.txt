@@ -1,0 +1,6 @@
+Class Demo
+{
+Public static void main(String Args[]){
+System.out.println("Hello World");
+}
+}
